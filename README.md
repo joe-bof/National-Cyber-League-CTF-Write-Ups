@@ -11,9 +11,9 @@ These are all the following write-ups I've done for the NCL challenge thus far.
 They are in the MS Word format so users can easily add in their own comments if necessary.
 
 NCL often has hints to solve the challenge within its title and the pictures near its title.
-	>E.g. in challenge titled "Tasty," you need to use the "yum" software.  There was also a picture of a hat near the title,
+	E.g. in challenge titled "Tasty," you need to use the "yum" software.  There was also a picture of a hat near the title,
 	 indicating that the the provided terminal was running a Red Hat Linux (RHL) distro, which was important to the challenge.
-	>E.g. in the challenge titled "Magic Bytes," understanding what Magic Bytes are was vital to solving the challenge.
+	E.g. in the challenge titled "Magic Bytes," understanding what Magic Bytes are was vital to solving the challenge.
 
 There are NCL online help resources to give pointers and tool recommendations.  If you get stuck on a challenge, try Googling
  the type of challenge, tool, etc. with the "NCL" keyword in your query. A good NCL blog resource is: https://cryptokait.com/
